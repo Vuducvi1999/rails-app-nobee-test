@@ -1,0 +1,14 @@
+.hide {
+  display: none;
+}
+
+.overlay {
+  z-index: 99;
+  background: rgba(99, 99, 99, 0.582);
+  width: 100vw;
+  height: 100vh;
+}
+
+.modal {
+  z-index: 100;
+}
